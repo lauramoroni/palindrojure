@@ -1,3 +1,3 @@
-# Introduction to clojure-project
+# Introduction to palindrojure
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
